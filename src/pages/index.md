@@ -70,7 +70,7 @@ sections:
       - media_position: right
         image_alt: Feature 3 placeholder image
         media_width: fifty
-        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
+        subtitle: Ripples of kindness form an ocean
         title: The Big Title For the Feature
         content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
         type: feature
