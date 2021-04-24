@@ -39,7 +39,7 @@
             {
                 "type": "action",
                 "label": "Contact",
-                "url": "/contact",
+                "url": "/time-to-connect",
                 "style": "link"
             },
             {
