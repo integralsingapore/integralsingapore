@@ -53,7 +53,7 @@
             },
             {
                 "type": "action",
-                "label": "Get Started",
+                "label": "Follow",
                 "url": "/pricing",
                 "style": "primary"
             }
