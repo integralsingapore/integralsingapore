@@ -9,37 +9,6 @@ sections:
     grid_items:
       - image_align: left
         actions_align: left
-        image_alt: Item 1 icon
-        image_has_padding: true
-        image_position: top
-        subtitle: >-
-          Do Good Together - nurture an eco-conscious community with the mind,
-          hands and heart
-        title: Ground-up Initiative GUI
-        content: >-
-          Singapore's 21st Century 'School of Life' in a nature-inspired campus
-          to forge A Beautiful Connection with the Earth & Community through
-          Farming Your Heart. Use your personal talents to help our local
-          community always on the lookout for people who long to connect to
-          nature and people. 
-
-
-          Write to involve@groundupinitiative.org to learn more about how you
-          can volunteer!
-        type: grid_item
-        image: images/classic/icon-1.svg
-        actions:
-          - type: action
-            label: Visit GUI
-            url: 'https://groundupinitiative.org/volunteer/'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        title_align: left
-        content_align: left
-      - image_align: left
-        actions_align: left
         image_alt: Item 2 icon
         image_has_padding: true
         image_position: top
