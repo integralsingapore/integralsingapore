@@ -8,7 +8,7 @@ sections:
     media_width: fifty
     background_color: none
     subtitle: Making it easy to do what is right
-    title: Integral Singapore gives back
+    title: Integral Singaporegives back
     content: >
       Integral Singapore is a groundup movement dedicated to positive change and
       sustainable development. Your heart knows it when you do what is right.
