@@ -44,7 +44,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: http://tinyurl.com/mightystars
+            url: 'http://tinyurl.com/mightystars'
             style: primary
             has_icon: true
             icon: arrow-right
@@ -62,7 +62,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: https://www.facebook.com/worldimprover/
+            url: 'https://www.facebook.com/worldimprover/'
             style: primary
             has_icon: true
             icon: arrow-right
@@ -72,28 +72,22 @@ sections:
         media_width: fifty
         subtitle: Ripples of kindness form an ocean
         title: Viral Kindness
-        content: >
-          A trusted platform that intersects kindness to self, others (charity)
-          and Mother Earth (sustainability). A community that shares and learns
-          about positive, encouraging and valid information.
+        content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
         type: feature
         image: /images/Screen Shot 2021-04-24 at 5.07.11 PM.png
         actions:
           - type: action
             label: Learn More
-            url: https://www.facebook.com/groups/203684714266698
+            url: 'https://www.facebook.com/groups/203684714266698'
             style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
       - media_position: top
         media_width: fifty
-        align: left
+        align: right
         type: feature
-        content: A movement to make it a norm in society that every person fights hard
-          for a cause that makes the world better for people. Imagine a world
-          where everyone fights for something good. Imagine how many things we
-          can dramatically improve. Imagine what a future we can build.
+        content: "A movement to make it a norm in society that every person fights hard for a cause that makes the world better for people.\_Imagine a world where everyone fights for something good. Imagine how many things we can dramatically improve. Imagine what a future we can build."
         title: Pick1Thing
         subtitle: Pick 1 cause and fight hard
         image: /images/pick1thing.png
@@ -108,7 +102,8 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 1
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         type: grid_item
@@ -129,9 +124,10 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 2
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         type: grid_item
         image: images/classic/icon-2.svg
         actions:
@@ -150,9 +146,10 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 3
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         type: grid_item
         image: images/classic/icon-3.svg
         actions:
@@ -232,7 +229,8 @@ sections:
     actions_position: right
     background_color: primary
     title: This is Call To Action Section In DIY Theme!
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -305,7 +303,8 @@ sections:
     actions_position: bottom
     background_color: secondary
     title: This is Call To Action Section In DIY Theme!
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -320,26 +319,26 @@ seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit DIY Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the DIY theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/diy-preview.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit DIY Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the DIY theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
