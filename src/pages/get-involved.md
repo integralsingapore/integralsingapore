@@ -40,7 +40,8 @@ sections:
         content_align: left
       - image_align: left
         actions_align: left
-        image_alt: Item 2 icon
+        actions_width: auto
+        image_alt: ""
         image_has_padding: true
         image_position: top
         subtitle: Every Little One Counts
@@ -62,11 +63,13 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: right
+            new_window: true
         title_align: left
         content_align: left
       - image_align: left
         actions_align: left
+        actions_width: auto
         image_alt: Item 3 icon
         image_has_padding: true
         image_position: top
@@ -89,7 +92,8 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: right
+            new_window: true
         title_align: left
         content_align: left
       - image_align: left
