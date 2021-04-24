@@ -152,7 +152,13 @@ sections:
     background_image_size: cover
     form_id: 700SGD
     title: Write to us
-    content: >-
+    content: >
+      #### Get in touch with Integral Singapore to discover more about our work
+      and how you can support us.
+
+
+
+
       The **700 SGD scholarship** (a spin-off from
       [Pick1Thing.com](http://pick1thing.com/))
 
