@@ -44,7 +44,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: http://tinyurl.com/mightystars
+            url: 'http://tinyurl.com/mightystars'
             style: primary
             has_icon: true
             icon: arrow-right
@@ -62,7 +62,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: https://www.facebook.com/worldimprover/
+            url: 'https://www.facebook.com/worldimprover/'
             style: primary
             has_icon: true
             icon: arrow-right
@@ -72,16 +72,13 @@ sections:
         media_width: fifty
         subtitle: Ripples of kindness form an ocean
         title: Viral Kindness
-        content: >
-          A trusted platform that intersects kindness to self, others (charity)
-          and Mother Earth (sustainability). A community that shares and learns
-          about positive, encouraging and valid information.
+        content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
         type: feature
         image: /images/Screen Shot 2021-04-24 at 5.07.11 PM.png
         actions:
           - type: action
             label: Learn More
-            url: https://www.facebook.com/groups/203684714266698
+            url: 'https://www.facebook.com/groups/203684714266698'
             style: primary
             has_icon: true
             icon: arrow-right
@@ -91,14 +88,11 @@ sections:
         media_width: fifty
         subtitle: Pick 1 cause and fight hard
         title: Pick1Thing
-        content: A movement to make it a norm in society that every person fights hard
-          for a cause that makes the world better for people. Imagine a world
-          where everyone fights for something good. Imagine how many things we
-          can dramatically improve. Imagine what a future we can build.
+        content: "A movement to make it a norm in society that every person fights hard for a cause that makes the world better for people.\_Imagine a world where everyone fights for something good. Imagine how many things we can dramatically improve. Imagine what a future we can build."
         type: feature
         image: /images/pick1thing.png
         actions:
-          - url: https://www.pick1thing.com/about
+          - url: 'https://www.pick1thing.com/about'
             icon_position: right
             new_window: true
             no_follow: false
@@ -166,13 +160,21 @@ sections:
       \---------------
 
 
-      The **700 SGD scholarship** (a spin-off from [Pick1Thing.com](http://pick1thing.com/))
+      The **700 SGD scholarship** (a spin-off from
+      [Pick1Thing.com](http://pick1thing.com/))
 
 
-      If you have picked 1 thing and you have an idea to do good but you need some money to make happen, you can apply for our 700 SGD scholarship. How many we give out each year depends on how many offerings of scholarships are raised. The requirements are easy: 1) you need to invest in a cause that makes the world better for people; and 2) you need to share back proof of how the money was used.
+      If you have picked 1 thing and you have an idea to do good but you need
+      some money to make happen, you can apply for our 700 SGD scholarship. How
+      many we give out each year depends on how many offerings of scholarships
+      are raised. The requirements are easy: 1) you need to invest in a cause
+      that makes the world better for people; and 2) you need to share back
+      proof of how the money was used.
 
 
-      If you have a great idea, don't be shy - write to us. You can also write to us if you want to offer a similar scholarship (via Integral Singapore or on your own blog/ site/ page/ setup).
+      If you have a great idea, don't be shy - write to us. You can also write
+      to us if you want to offer a similar scholarship (via Integral Singapore
+      or on your own blog/ site/ page/ setup).
     padding_bottom: medium
     type: form_section
     title_align: center
@@ -209,26 +211,26 @@ seo:
   title: Integral Singapore
   description: Making it easy to do what is right
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit DIY Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the DIY theme
       keyName: property
-    - name: og:image
-      value: images/diy-preview.png
+    - name: 'og:image'
+      value: /images/Screen%20Shot%202021-04-24%20at%209.28.31%20PM.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit DIY Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the DIY theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
