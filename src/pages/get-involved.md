@@ -176,16 +176,46 @@ sections:
     type: grid_section
   - type: features_section
     features:
-      - type: feature
-        title: Section Title One
-        subtitle: "Odio et tortor laoreet, sed interdum augue ornare. "
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-3.jpg
-        image_alt: Top view of business meeting
-        media_position: right
+      - media_position: right
+        image_alt: ""
         media_width: fifty
+        video_embed_html: <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/rAUTNGC3CuU" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        subtitle: Warmspace • 10:38
+        title: Can You Really Move on From Your Ex? Shane & Rachel [Acceptance]
+        content: >-
+          Meeting Shane for the first time as a stranger, Rachel shared about
+          the pain from a heartbreak that resurfaced during the quarantine. What
+          do you do when someone who's not only your lover, but also a friend,
+          and a dance partner you see regularly cut you off from your life? Can
+          you really fight off the ego that wants to be perceived in certain
+          ways in front of your ex? Shane discussed this vulnerably with Rachel
+          and shared how he dealt with the death of his ex-girlfriend.
+
+
+          We'd like to thank Shane and Rachel for their vulnerability and courage to share their story with the world. We hope you find catharsis, strength, and inspiration from what they've shared. 
+
+
+          Featuring:
+
+          Rachel | https://www.instagram.com/rachbeanbean/?
+
+          Shane | https://www.linkedin.com/in/supershane/
+
+
+          * Warmspace is a social platform that allows any human to experience deep emotional connection through a guided 1:1 conversation. Our mission is to make the world a kinder, more authentic, and humane place, one conversation at a time. Fancy a raw and genuine conversation like this? Sign up at https://warmspace.io/
+
+
+          Website | https://warmspace.io/
+
+          Instagram | http://instagram.com/warmspce
+
+          Facebook | https://www.facebook.com/warmspce
+        type: feature
+        image: ""
       - type: feature
         title: Section Title Two
         subtitle: "In fermentum odio et tortor laoreet, sed interdum augue ornare. "
