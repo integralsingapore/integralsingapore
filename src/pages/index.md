@@ -40,7 +40,7 @@ sections:
           our inter-connected world which we believe is founded on goodness in
           overflow.
         type: feature
-        image: images/classic/feature-1.png
+        image: /images/mightystars.png
         actions:
           - type: action
             label: Learn More
