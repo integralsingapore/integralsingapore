@@ -57,7 +57,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: 'https://www.facebook.com/worldimprover/'
             style: primary
             has_icon: true
             icon: arrow-right
