@@ -1,145 +1,145 @@
 {
-  "mode": "light",
-  "domain": "https://integralsingapore.netlify.app",
-  "header": {
-    "primary_nav_links": [
-      {
-        "type": "action",
-        "label": "Get involved",
-        "url": "/features",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Time to connect",
-        "url": "/pricing",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Inspiration wall",
-        "url": "/about",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Message from founder",
-        "url": "/style-guide",
-        "style": "link"
-      }
-    ],
-    "has_primary_nav": true,
-    "anncmnt_has_close": true,
-    "anncmnt_is_home_only": true,
-    "anncmnt_id": "new-features",
-    "logo": "/images/logo-round.png",
-    "anncmnt_content": "Watch for announcements here! **[Learn More](/)**",
-    "has_anncmnt": true,
-    "secondary_nav_links": [
-      {
-        "type": "action",
-        "label": "Contact",
-        "url": "/contact",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Follow",
-        "url": "https://www.facebook.com/integralsingapore/",
-        "style": "primary"
-      }
-    ],
-    "has_secondary_nav": true,
-    "logo_alt": "Integral Singapore logo",
-    "anncmnt_align": "center",
-    "title": "IS",
-    "type": "header"
-  },
-  "layout_type": "boxed",
-  "style": "minimal",
-  "favicon": "/images/pleasant-sage.png",
-  "title": "Integral Singapore",
-  "footer": {
-    "primary_nav_links": [],
-    "has_primary_nav": true,
-    "social_links": [
-      {
-        "type": "action",
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "style": "link",
-        "has_icon": false,
-        "icon": "twitter",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Facebook",
-        "url": "https://www.facebook.com/integralsingapore/",
-        "style": "link",
-        "has_icon": true,
-        "icon": "facebook",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
-        "style": "link",
-        "has_icon": false,
-        "icon": "linkedin",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "YouTube",
-        "url": "https://www.youtube.com/",
-        "style": "link",
-        "has_icon": false,
-        "icon": "youtube",
-        "icon_position": "center",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "label": "Vimeo",
-        "url": "https://vimeo.com/",
-        "style": "link",
-        "has_icon": false,
-        "icon": "vimeo",
-        "icon_position": "center",
-        "new_window": true
-      }
-    ],
-    "logo": "/images/logo-250px.png",
-    "tertiary_nav_title": "Legal",
-    "tertiary_nav_links": [
-      {
-        "type": "action",
-        "label": "Terms & Conditions",
-        "url": "/terms-conditions",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Privacy Policy",
-        "url": "/privacy-policy",
-        "style": "link"
-      }
-    ],
-    "secondary_nav_title": "",
-    "secondary_nav_links": [],
-    "has_social": true,
-    "has_secondary_nav": true,
-    "logo_alt": "Integral Singapore logo",
-    "content": "&copy; Integral Singapore. All rights reserved.",
-    "type": "footer",
-    "has_tertiary_nav": true,
-    "primary_nav_title": ""
-  },
-  "palette": "green",
-  "base_font": "serif"
+    "mode": "light",
+    "domain": "https://integralsingapore.netlify.app",
+    "header": {
+        "primary_nav_links": [
+            {
+                "type": "action",
+                "label": "Get involved",
+                "url": "/features",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Time to connect",
+                "url": "/time-to-connect",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Inspiration wall",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Message from founder",
+                "url": "/style-guide",
+                "style": "link"
+            }
+        ],
+        "has_primary_nav": true,
+        "anncmnt_has_close": true,
+        "anncmnt_is_home_only": true,
+        "anncmnt_id": "new-features",
+        "logo": "/images/logo-round.png",
+        "anncmnt_content": "Watch for announcements here! **[Learn More](/)**",
+        "has_anncmnt": true,
+        "secondary_nav_links": [
+            {
+                "type": "action",
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Follow",
+                "url": "https://www.facebook.com/integralsingapore/",
+                "style": "primary"
+            }
+        ],
+        "has_secondary_nav": true,
+        "logo_alt": "Integral Singapore logo",
+        "anncmnt_align": "center",
+        "title": "IS",
+        "type": "header"
+    },
+    "layout_type": "boxed",
+    "style": "minimal",
+    "favicon": "/images/pleasant-sage.png",
+    "title": "Integral Singapore",
+    "footer": {
+        "primary_nav_links": [],
+        "has_primary_nav": true,
+        "social_links": [
+            {
+                "type": "action",
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "twitter",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/integralsingapore/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "facebook",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "linkedin",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "YouTube",
+                "url": "https://www.youtube.com/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "youtube",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "label": "Vimeo",
+                "url": "https://vimeo.com/",
+                "style": "link",
+                "has_icon": false,
+                "icon": "vimeo",
+                "icon_position": "center",
+                "new_window": true
+            }
+        ],
+        "logo": "/images/logo-250px.png",
+        "tertiary_nav_title": "Legal",
+        "tertiary_nav_links": [
+            {
+                "type": "action",
+                "label": "Terms & Conditions",
+                "url": "/terms-conditions",
+                "style": "link"
+            },
+            {
+                "type": "action",
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "secondary_nav_title": "",
+        "secondary_nav_links": [],
+        "has_social": true,
+        "has_secondary_nav": true,
+        "logo_alt": "Integral Singapore logo",
+        "content": "&copy; Integral Singapore. All rights reserved.",
+        "type": "footer",
+        "has_tertiary_nav": true,
+        "primary_nav_title": ""
+    },
+    "palette": "green",
+    "base_font": "serif"
 }
