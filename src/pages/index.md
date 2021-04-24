@@ -85,7 +85,7 @@ sections:
             icon_position: right
       - media_position: top
         media_width: fifty
-        align: right
+        align: left
         type: feature
         content: "A movement to make it a norm in society that every person fights hard for a cause that makes the world better for people.\_Imagine a world where everyone fights for something good. Imagine how many things we can dramatically improve. Imagine what a future we can build."
         title: Pick1Thing
