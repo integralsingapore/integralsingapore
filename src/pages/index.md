@@ -26,7 +26,7 @@ sections:
         style: secondary
   - type: features_section
     title: Features Section
-    subtitle: Features Section Example
+    subtitle: Partners
     features:
       - media_position: right
         image_alt: Feature 1 placeholder image
