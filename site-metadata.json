@@ -24,7 +24,7 @@
             {
                 "type": "action",
                 "label": "Message from founder",
-                "url": "/",
+                "url": "/message-from-founder",
                 "style": "link"
             }
         ],
