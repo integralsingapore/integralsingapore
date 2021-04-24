@@ -121,7 +121,7 @@ sections:
     form_layout: stacked
     padding_top: medium
     align_vert: top
-    form_width: fourty
+    form_width: fifty
     enable_card: true
     submit_label: Submit
     background_image_repeat: no-repeat
