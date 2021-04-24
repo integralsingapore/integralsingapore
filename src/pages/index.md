@@ -173,7 +173,7 @@ sections:
       or on your own blog/ site/ page/ setup).
     padding_bottom: medium
     type: form_section
-    title_align: right
+    title_align: center
     background_image_position: center center
     content_align: left
   - align: center
