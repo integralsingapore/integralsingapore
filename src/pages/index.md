@@ -14,7 +14,7 @@ sections:
       sustainable development. Your heart knows it when you do what is right.
     padding_bottom: large
     type: hero_section
-    image: /images/logo.png
+    image: /images/undraw_High_five_u364.svg
     actions:
       - type: action
         label: Try Free
@@ -71,9 +71,10 @@ sections:
       - media_position: right
         image_alt: Feature 1 placeholder image
         media_width: fifty
-        subtitle: "In fermentum odio et tortor laoreet, sed interdum augue ornare. "
+        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         title: The Big Title For the Feature
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         type: feature
@@ -88,9 +89,10 @@ sections:
             icon_position: right
       - type: feature
         title: The Big Title For the Feature
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         actions:
           - type: action
             label: Learn More
@@ -106,11 +108,12 @@ sections:
       - media_position: right
         image_alt: Feature 3 placeholder image
         media_width: fifty
-        subtitle: Sed sed commodo turpis, eget rutrum dui.
+        subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         title: The Big Title For the Feature
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         type: feature
         image: images/classic/feature-3.png
         actions:
@@ -132,7 +135,8 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 1
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         type: grid_item
@@ -153,9 +157,10 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 2
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         type: grid_item
         image: images/classic/icon-2.svg
         actions:
@@ -174,9 +179,10 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 3
-        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
-          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
-          lacinia.
+        content: >-
+          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
+          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
+          euismod lacinia.
         type: grid_item
         image: images/classic/icon-3.svg
         actions:
@@ -256,7 +262,8 @@ sections:
     actions_position: right
     background_color: primary
     title: This is Call To Action Section In DIY Theme!
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -329,7 +336,8 @@ sections:
     actions_position: bottom
     background_color: secondary
     title: This is Call To Action Section In DIY Theme!
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -344,26 +352,26 @@ seo:
   title: Stackbit DIY Theme
   description: The preview of the DIY theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit DIY Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the DIY theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/diy-preview.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit DIY Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the DIY theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
