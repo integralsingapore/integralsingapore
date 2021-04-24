@@ -32,7 +32,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_width: fifty
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
-        title: The Big Title For the Feature
+        title: Mighty Stars
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
