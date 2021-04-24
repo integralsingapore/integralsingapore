@@ -18,7 +18,7 @@ sections:
     actions:
       - type: action
         label: Subscribe
-        url: /pricing
+        url: /contact
         style: primary
       - type: action
         label: Learn More
