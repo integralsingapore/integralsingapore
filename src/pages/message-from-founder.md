@@ -10,14 +10,15 @@ sections:
     has_border: false
     background_color: none
     background_image_size: cover
-    title: ""
+    title: Notes from the founder
+    content: January 12, 2010
     padding_bottom: medium
     type: cta_section
     background_image_position: center center
-  - align: center
+  - align: left
     padding_top: medium
     has_border: false
-    background_color: primary
+    background_color: none
     title: Notes from the founder
     content: >-
       Integral Singapore comes from the heart; hearts that seek! Integral is
