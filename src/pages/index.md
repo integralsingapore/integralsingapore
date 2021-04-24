@@ -157,7 +157,7 @@ sections:
       and how you can support us.
 
 
-      \-----
+      \---------------
 
 
       The **700 SGD scholarship** (a spin-off from
