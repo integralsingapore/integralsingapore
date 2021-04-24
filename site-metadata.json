@@ -54,7 +54,7 @@
             {
                 "type": "action",
                 "label": "Follow",
-                "url": "/pricing",
+                "url": "https://www.facebook.com/integralsingapore/",
                 "style": "primary"
             }
         ],
