@@ -66,7 +66,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: left
         media_width: fifty
-        subtitle: ggg
+        subtitle: Growing a world of good
       - media_position: right
         image_alt: Feature 3 placeholder image
         media_width: fifty
