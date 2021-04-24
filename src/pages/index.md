@@ -71,7 +71,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_width: fifty
         subtitle: Ripples of kindness form an ocean
-        title: The Big Title For the Feature
+        title: Viral Kindness
         content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
         type: feature
         image: images/classic/feature-3.png
