@@ -44,7 +44,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: 'http://tinyurl.com/mightystars'
+            url: http://tinyurl.com/mightystars
             style: primary
             has_icon: true
             icon: arrow-right
@@ -62,7 +62,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: 'https://www.facebook.com/worldimprover/'
+            url: https://www.facebook.com/worldimprover/
             style: primary
             has_icon: true
             icon: arrow-right
@@ -72,13 +72,16 @@ sections:
         media_width: fifty
         subtitle: Ripples of kindness form an ocean
         title: Viral Kindness
-        content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
+        content: >
+          A trusted platform that intersects kindness to self, others (charity)
+          and Mother Earth (sustainability). A community that shares and learns
+          about positive, encouraging and valid information.
         type: feature
         image: /images/Screen Shot 2021-04-24 at 5.07.11 PM.png
         actions:
           - type: action
             label: Learn More
-            url: 'https://www.facebook.com/groups/203684714266698'
+            url: https://www.facebook.com/groups/203684714266698
             style: primary
             has_icon: true
             icon: arrow-right
@@ -88,11 +91,14 @@ sections:
         media_width: fifty
         subtitle: Pick 1 cause and fight hard
         title: Pick1Thing
-        content: "A movement to make it a norm in society that every person fights hard for a cause that makes the world better for people.\_Imagine a world where everyone fights for something good. Imagine how many things we can dramatically improve. Imagine what a future we can build."
+        content: A movement to make it a norm in society that every person fights hard
+          for a cause that makes the world better for people. Imagine a world
+          where everyone fights for something good. Imagine how many things we
+          can dramatically improve. Imagine what a future we can build.
         type: feature
         image: /images/pick1thing.png
         actions:
-          - url: 'https://www.pick1thing.com/about'
+          - url: https://www.pick1thing.com/about
             icon_position: right
             new_window: true
             no_follow: false
@@ -151,27 +157,43 @@ sections:
         default_value: Type your message here...
     background_image_size: cover
     form_id: 700SGD
-    title: Write to us
-    content: >
-      #### Get in touch with Integral Singapore to discover more about our work
-      and how you can support us.
-
-
+    subtitle: Write to us
+    title: Get in touch with Integral Singapore to discover more about our work and
+      how you can support us.
+    content: >-
       The **700 SGD scholarship** (a spin-off from
       [Pick1Thing.com](http://pick1thing.com/))
 
 
-      If you have picked 1 thing and you have an idea to do good but you need
-      some money to make happen, you can apply for our 700 SGD scholarship. How
-      many we give out each year depends on how many offerings of scholarships
-      are raised. The requirements are easy: 1) you need to invest in a cause
-      that makes the world better for people; and 2) you need to share back
-      proof of how the money was used.
+      If you have picked 1 thing and you have an idea to do good but you need some money to make happen, you can apply for our 700 SGD scholarship. How many we give out each year depends on how many offerings of scholarships are raised. The requirements are easy: 1) you need to invest in a cause that makes the world better for people; and 2) you need to share back proof of how the money was used.
 
 
-      If you have a great idea, don't be shy - write to us. You can also write
-      to us if you want to offer a similar scholarship (via Integral Singapore
-      or on your own blog/ site/ page/ setup).
+      If you have a great idea, don't be shy - write to us. You can also write to us if you want to offer a similar scholarship (via Integral Singapore or on your own blog/ site/ page/ setup).
+    padding_bottom: medium
+    type: form_section
+    title_align: center
+    background_image_position: center center
+    content_align: left
+  - form_position: bottom
+    form_layout: stacked
+    padding_top: medium
+    align_vert: top
+    form_width: fifty
+    enable_card: false
+    submit_label: Submit
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: secondary
+    form_fields:
+      - is_required: true
+        type: form_field
+        input_type: email
+        name: EMmail
+        label: Email
+    background_image_size: cover
+    form_id: subscribeForm
+    subtitle: Subscribe to our newsletter to make sure you don't miss anything.
+    title: Subscribe
     padding_bottom: medium
     type: form_section
     title_align: center
@@ -185,8 +207,7 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 1
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
         type: grid_item
@@ -207,10 +228,9 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 2
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
         type: grid_item
         image: images/classic/icon-2.svg
         actions:
@@ -229,10 +249,9 @@ sections:
         image_has_padding: true
         image_position: top
         title: Section Item 3
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut diam
+          quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio euismod
+          lacinia.
         type: grid_item
         image: images/classic/icon-3.svg
         actions:
@@ -312,8 +331,7 @@ sections:
     actions_position: right
     background_color: primary
     title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -387,8 +405,7 @@ sections:
     actions_position: bottom
     background_color: secondary
     title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
       fringilla, fringilla.
     padding_bottom: large
@@ -403,26 +420,26 @@ seo:
   title: Integral Singapore
   description: Making it easy to do what is right
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Stackbit DIY Theme
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: The preview of the DIY theme
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/diy-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Stackbit DIY Theme
-    - name: 'twitter:description'
+    - name: twitter:description
       value: The preview of the DIY theme
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
