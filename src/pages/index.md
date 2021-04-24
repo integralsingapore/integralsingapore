@@ -151,9 +151,7 @@ sections:
         default_value: Type your message here...
     background_image_size: cover
     form_id: 700SGD
-    subtitle: >-
-      Write to us Get in touch with Integral Singapore to discover more about
-      our work and how you can support us.
+    subtitle: Write to us
     title: Write to us
     content: >-
       The **700 SGD scholarship** (a spin-off from
