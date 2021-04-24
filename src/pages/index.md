@@ -126,7 +126,7 @@ sections:
     submit_label: Submit
     background_image_repeat: no-repeat
     has_border: false
-    background_color: primary
+    background_color: secondary
     form_fields:
       - is_required: false
         type: form_field
