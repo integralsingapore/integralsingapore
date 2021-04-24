@@ -32,13 +32,6 @@
             },
             {
                 "type": "action",
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link",
-                "has_icon": false
-            },
-            {
-                "type": "action",
                 "label": "Message from founder",
                 "url": "/style-guide",
                 "style": "link"
