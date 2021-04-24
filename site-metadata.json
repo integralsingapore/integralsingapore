@@ -38,7 +38,7 @@
             },
             {
                 "type": "action",
-                "label": "Style Guide",
+                "label": "Message from founder",
                 "url": "/style-guide",
                 "style": "link"
             }
