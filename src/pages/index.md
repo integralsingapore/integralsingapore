@@ -51,10 +51,9 @@ sections:
             icon_position: right
       - type: feature
         title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We make space for ideas that can improve our world in the form of
+          groundup competitions.
         actions:
           - type: action
             label: Learn More
