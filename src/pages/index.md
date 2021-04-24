@@ -50,7 +50,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature
-        title: The Big Title For the Feature
+        title: World Improver
         content: >
           We make space for ideas that can improve our world in the form of
           groundup competitions.
