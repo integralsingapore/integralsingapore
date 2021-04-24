@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Integral Singapore gives back
-    subtitle: Optional hero section subtitle
+    subtitle: To love is not to fear
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
