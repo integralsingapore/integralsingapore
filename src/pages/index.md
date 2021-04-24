@@ -326,15 +326,15 @@ sections:
         url: /pricing
         style: primary
   - actions_width: fourty
-    align: left
+    align: center
     padding_top: medium
     actions_position: null
     background_image_repeat: no-repeat
     has_border: false
     background_color: primary
     background_image_size: cover
-    content: '"Great things are done by a series of small things brought together" -
-      Vincent van Gogh'
+    title: '"Great things are done by a series of small things brought together"'
+    content: \- Vincent van Gogh
     padding_bottom: medium
     type: cta_section
     background_image_position: center center
