@@ -78,7 +78,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: 'https://www.facebook.com/groups/203684714266698'
             style: primary
             has_icon: true
             icon: arrow-right
