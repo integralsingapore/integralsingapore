@@ -18,7 +18,7 @@
             {
                 "type": "action",
                 "label": "Inspiration wall",
-                "url": "/about",
+                "url": "/inspiration-wall",
                 "style": "link"
             },
             {
