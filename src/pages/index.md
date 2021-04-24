@@ -74,7 +74,7 @@ sections:
         title: Viral Kindness
         content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
         type: feature
-        image: images/classic/feature-3.png
+        image: /images/Screen Shot 2021-04-24 at 5.07.11 PM.png
         actions:
           - type: action
             label: Learn More
