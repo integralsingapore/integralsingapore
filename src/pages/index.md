@@ -218,7 +218,7 @@ seo:
       value: Integral Singapore
       keyName: property
     - name: 'og:description'
-      value: The preview of the DIY theme
+      value: Making it easy to do what is right
       keyName: property
     - name: 'og:image'
       value: /images/Screen%20Shot%202021-04-24%20at%209.28.31%20PM.png
