@@ -304,50 +304,19 @@ sections:
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
     has_border: false
-  - align: center
-    grid_items:
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    background_color: secondary
-    grid_gap_vert: large
-    subtitle: Grid Section Example
-    title: Reviews Section
-    grid_gap_horiz: medium
-    type: grid_section
   - align: left
     padding_top: medium
     actions_position: right
     has_border: false
     background_color: primary
-    title: This is a Call to Action
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    title: Contact us
+    content: Don't be shy
     padding_bottom: medium
     type: cta_section
     actions:
       - type: action
-        label: Compare Plans
-        url: /pricing
+        label: Contact
+        url: /time-to-connect
         style: primary
 seo:
   type: stackbit_page_meta
