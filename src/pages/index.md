@@ -152,8 +152,8 @@ sections:
     background_image_size: cover
     form_id: 700SGD
     subtitle: >-
-      Get in touch with Integral Singapore to discover more about our work and
-      how you can support us.
+      Write to us Get in touch with Integral Singapore to discover more about
+      our work and how you can support us.
     title: Write to us
     content: >-
       The **700 SGD scholarship** (a spin-off from
