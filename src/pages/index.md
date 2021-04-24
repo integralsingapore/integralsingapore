@@ -185,7 +185,7 @@ sections:
     submit_label: Submit
     background_image_repeat: no-repeat
     has_border: false
-    background_color: secondary
+    background_color: none
     form_fields:
       - is_required: true
         type: form_field
