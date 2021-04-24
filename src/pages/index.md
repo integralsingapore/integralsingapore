@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Integral Singapore gives back
-    subtitle: To love is not to fear
+    subtitle: Making it easy to do what is right
     content: >
       Integral Singapore is a groundup movement dedicated to positive change and
       sustainable development. Your heart knows it when you do what is right.
