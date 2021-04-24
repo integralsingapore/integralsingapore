@@ -110,6 +110,70 @@ sections:
     feature_padding_vert: large
     align: center
     background_color: secondary
+  - actions_width: fourty
+    align: center
+    padding_top: medium
+    actions_position: null
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: primary
+    background_image_size: cover
+    title: '"Great things are done by a series of small things brought together"'
+    content: \- Vincent van Gogh
+    padding_bottom: medium
+    type: cta_section
+    background_image_position: center center
+  - form_position: bottom
+    form_layout: stacked
+    padding_top: medium
+    align_vert: top
+    form_width: fifty
+    enable_card: false
+    submit_label: Submit
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: none
+    form_fields:
+      - is_required: false
+        type: form_field
+        input_type: text
+        name: Name
+        label: Name
+      - is_required: false
+        type: form_field
+        input_type: email
+        name: Email
+        label: Email
+      - is_required: false
+        type: form_field
+        input_type: text
+        name: Subject
+        label: Subject
+      - is_required: false
+        type: form_field
+        input_type: textarea
+        name: Message
+        label: Message
+        default_value: Type your message here...
+    background_image_size: cover
+    form_id: 700SGD
+    subtitle: Get in touch with Integral Singapore to discover more about our work
+      and how you can support us.
+    title: Write to us
+    content: >-
+      The **700 SGD scholarship** (a spin-off from
+      [Pick1Thing.com](http://pick1thing.com/))
+
+
+      If you have picked 1 thing and you have an idea to do good but you need some money to make happen, you can apply for our 700 SGD scholarship. How many we give out each year depends on how many offerings of scholarships are raised. The requirements are easy: 1) you need to invest in a cause that makes the world better for people; and 2) you need to share back proof of how the money was used.
+
+
+      If you have a great idea, don't be shy - write to us. You can also write to us if you want to offer a similar scholarship (via Integral Singapore or on your own blog/ site/ page/ setup).
+    padding_bottom: medium
+    type: form_section
+    title_align: left
+    background_image_position: center center
+    content_align: left
   - align: center
     grid_items:
       - image_align: left
@@ -252,14 +316,7 @@ sections:
         label: Learn More
         url: /features
         style: secondary
-  - type: grid_section
-    title: Team Section
-    subtitle: Grid Section Example
-    actions:
-      - type: action
-        label: Join the team
-        url: /style-guide
-        style: primary
+  - align: center
     grid_items:
       - type: grid_item
         title: Gustav Purpleson
@@ -286,8 +343,16 @@ sections:
         image: images/hilary-ouse.jpg
         image_position: top
     grid_cols: four
-    align: center
+    has_border: false
     background_color: secondary
+    subtitle: Grid Section Example
+    title: Team Section
+    type: grid_section
+    actions:
+      - type: action
+        label: Join the team
+        url: /style-guide
+        style: primary
   - align: center
     padding_top: medium
     enable_cards: true
@@ -325,19 +390,6 @@ sections:
         label: Button
         url: /pricing
         style: primary
-  - actions_width: fourty
-    align: center
-    padding_top: medium
-    actions_position: null
-    background_image_repeat: no-repeat
-    has_border: false
-    background_color: primary
-    background_image_size: cover
-    title: '"Great things are done by a series of small things brought together"'
-    content: \- Vincent van Gogh
-    padding_bottom: medium
-    type: cta_section
-    background_image_position: center center
 seo:
   type: stackbit_page_meta
   title: Integral Singapore
