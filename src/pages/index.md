@@ -22,7 +22,7 @@ sections:
         style: primary
       - type: action
         label: Learn More
-        url: /features
+        url: /about
         style: secondary
   - type: features_section
     title: Who supports us
