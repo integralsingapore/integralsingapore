@@ -110,7 +110,7 @@ sections:
     actions_position: null
     background_image_repeat: no-repeat
     has_border: false
-    background_color: none
+    background_color: primary
     background_image_size: cover
     title: '"Great things are done by a series of small things brought together"'
     content: \- Vincent van Gogh
