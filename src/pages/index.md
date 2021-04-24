@@ -114,7 +114,7 @@ sections:
     background_image_size: cover
     title: '"Great things are done by a series of small things brought together"'
     content: \- Vincent van Gogh
-    padding_bottom: medium
+    padding_bottom: small
     type: cta_section
     background_image_position: center center
   - form_position: right
