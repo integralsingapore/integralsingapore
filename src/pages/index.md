@@ -25,7 +25,7 @@ sections:
         url: /features
         style: secondary
   - type: features_section
-    title: Features Section
+    title: Who supports us
     subtitle: Partners
     features:
       - media_position: right
