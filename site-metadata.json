@@ -130,7 +130,7 @@
         "style": "link"
       }
     ],
-    "secondary_nav_title": "Blog",
+    "secondary_nav_title": "",
     "secondary_nav_links": [
       {
         "type": "action",
@@ -152,7 +152,7 @@
       }
     ],
     "has_social": true,
-    "has_secondary_nav": false,
+    "has_secondary_nav": true,
     "logo_alt": "Integral Singapore logo",
     "content": "&copy; Integral Singapore. All rights reserved.",
     "type": "footer",
