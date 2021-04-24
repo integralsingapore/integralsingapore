@@ -173,9 +173,6 @@ sections:
     title_align: center
     background_image_position: center center
     content_align: left
-    subtitle: >-
-      Get in touch with Integral Singapore to discover more about our work and
-      how you can support us.
   - align: center
     grid_items:
       - image_align: left
