@@ -98,6 +98,7 @@ sections:
         content_align: left
       - image_align: left
         actions_align: left
+        actions_width: auto
         image_alt: Item 4 icon
         image_has_padding: true
         image_position: top
@@ -115,7 +116,7 @@ sections:
             style: link
             has_icon: true
             icon: arrow-right
-            icon_position: center
+            icon_position: left
         title_align: left
         content_align: left
       - image_align: left
@@ -217,15 +218,20 @@ sections:
         type: feature
         image: ""
       - type: feature
-        title: Section Title Two
-        subtitle: "In fermentum odio et tortor laoreet, sed interdum augue ornare. "
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        title: lofi kampung kampus - beats to chill/relax/study to
+        subtitle: Ground-Up Initiative • 29:41
+        content: >-
+          Some of our digital/marketing folks compiled some lo-fi tunes for you
+          to listen to wherever and whenever! 
+
+
+          Enjoy the ambient rain sounds...
+           now sit back and relax 🌧🎼🎧😌
         video_embed_html: <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/aS1aPOOMQMk?modestbranding=1"
-          frameborder="0" allow="accelerometer; autoplay; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen></iframe>
+          src="https://www.youtube.com/embed/2RpWTVzMArA" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
         media_position: left
         media_width: fifty
       - type: feature
