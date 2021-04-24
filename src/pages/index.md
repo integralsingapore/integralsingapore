@@ -44,7 +44,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: 'http://tinyurl.com/mightystars'
+            url: http://tinyurl.com/mightystars
             style: primary
             has_icon: true
             icon: arrow-right
@@ -62,7 +62,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: 'https://www.facebook.com/worldimprover/'
+            url: https://www.facebook.com/worldimprover/
             style: primary
             has_icon: true
             icon: arrow-right
@@ -72,13 +72,16 @@ sections:
         media_width: fifty
         subtitle: Ripples of kindness form an ocean
         title: Viral Kindness
-        content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
+        content: >
+          A trusted platform that intersects kindness to self, others (charity)
+          and Mother Earth (sustainability). A community that shares and learns
+          about positive, encouraging and valid information.
         type: feature
         image: /images/Screen Shot 2021-04-24 at 5.07.11 PM.png
         actions:
           - type: action
             label: Learn More
-            url: 'https://www.facebook.com/groups/203684714266698'
+            url: https://www.facebook.com/groups/203684714266698
             style: primary
             has_icon: true
             icon: arrow-right
@@ -88,11 +91,14 @@ sections:
         media_width: fifty
         subtitle: Pick 1 cause and fight hard
         title: Pick1Thing
-        content: "A movement to make it a norm in society that every person fights hard for a cause that makes the world better for people.\_Imagine a world where everyone fights for something good. Imagine how many things we can dramatically improve. Imagine what a future we can build."
+        content: A movement to make it a norm in society that every person fights hard
+          for a cause that makes the world better for people. Imagine a world
+          where everyone fights for something good. Imagine how many things we
+          can dramatically improve. Imagine what a future we can build.
         type: feature
         image: /images/pick1thing.png
         actions:
-          - url: 'https://www.pick1thing.com/about'
+          - url: https://www.pick1thing.com/about
             icon_position: right
             new_window: true
             no_follow: false
@@ -160,21 +166,13 @@ sections:
       \---------------
 
 
-      The **700 SGD scholarship** (a spin-off from
-      [Pick1Thing.com](http://pick1thing.com/))
+      The **700 SGD scholarship** (a spin-off from [Pick1Thing.com](http://pick1thing.com/))
 
 
-      If you have picked 1 thing and you have an idea to do good but you need
-      some money to make happen, you can apply for our 700 SGD scholarship. How
-      many we give out each year depends on how many offerings of scholarships
-      are raised. The requirements are easy: 1) you need to invest in a cause
-      that makes the world better for people; and 2) you need to share back
-      proof of how the money was used.
+      If you have picked 1 thing and you have an idea to do good but you need some money to make happen, you can apply for our 700 SGD scholarship. How many we give out each year depends on how many offerings of scholarships are raised. The requirements are easy: 1) you need to invest in a cause that makes the world better for people; and 2) you need to share back proof of how the money was used.
 
 
-      If you have a great idea, don't be shy - write to us. You can also write
-      to us if you want to offer a similar scholarship (via Integral Singapore
-      or on your own blog/ site/ page/ setup).
+      If you have a great idea, don't be shy - write to us. You can also write to us if you want to offer a similar scholarship (via Integral Singapore or on your own blog/ site/ page/ setup).
     padding_bottom: medium
     type: form_section
     title_align: center
@@ -199,183 +197,38 @@ sections:
     background_image_size: cover
     form_id: subscribeForm
     title: Subscribe
+    content: |
+      Subscribe to our newsletter to make sure you don't miss anything.
     padding_bottom: medium
     type: form_section
     title_align: center
     background_image_position: center center
     content_align: center
-    content: |
-      Subscribe to our newsletter to make sure you don't miss anything.
-  - align: center
-    grid_items:
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Hanson Deck,** *App Developer, Studio*
-        image: images/hanson-deck.png
-        image_alt: Hanson Deck
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Miles Tone,** *CEO, Studio*
-        image: images/miles-tone.png
-        image_alt: Miles Tone
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
-        image_alt: Eleanor Carr
-        image_position: left
-        image_width: twenty-five
-      - type: grid_item
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
-
-
-          **Gordon Norman,** *Web Designer, Studio*
-        image: images/gordon-norman.png
-        image_alt: Gordon Norman
-        image_position: left
-        image_width: twenty-five
-    grid_cols: two
-    background_color: secondary
-    grid_gap_vert: large
-    subtitle: Grid Section Example
-    title: Reviews Section
-    grid_gap_horiz: medium
-    type: grid_section
-  - actions_width: fourty
-    align: left
-    padding_top: large
-    actions_position: right
-    background_color: primary
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    padding_bottom: large
-    type: cta_section
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: secondary
-  - align: center
-    grid_items:
-      - type: grid_item
-        title: Gustav Purpleson
-        subtitle: Co-Founder & CEO
-        title_align: center
-        image: images/gustav-purpleson.jpg
-        image_position: top
-      - type: grid_item
-        title: Dianne Ameter
-        subtitle: Software Engineer
-        title_align: center
-        image: images/dianne-ameter.jpg
-        image_position: top
-      - type: grid_item
-        title: Hugh Saturation
-        subtitle: Developer Advocate
-        title_align: center
-        image: images/hugh-saturation.jpg
-        image_position: top
-      - type: grid_item
-        title: Hilary Ouse
-        subtitle: Operations Manager
-        title_align: center
-        image: images/hilary-ouse.jpg
-        image_position: top
-    grid_cols: four
-    has_border: false
-    background_color: secondary
-    subtitle: Grid Section Example
-    title: Team Section
-    type: grid_section
-    actions:
-      - type: action
-        label: Join the team
-        url: /style-guide
-        style: primary
-  - align: center
-    padding_top: medium
-    enable_cards: true
-    recent_count: 3
-    show_author: true
-    show_date: true
-    has_border: false
-    background_color: none
-    blog_feed_cols: three
-    subtitle: Blog Feed Section Example
-    title: What's New
-    show_image: true
-    padding_bottom: medium
-    type: blog_feed_section
-    actions:
-      - type: action
-        label: View All
-        url: /blog
-        style: primary
-    show_recent: true
-    show_categories: true
-    show_excerpt: false
-  - align: center
-    padding_top: large
-    actions_position: bottom
-    background_color: secondary
-    title: This is Call To Action Section In DIY Theme!
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
-    padding_bottom: large
-    type: cta_section
-    actions:
-      - type: action
-        label: Button
-        url: /pricing
-        style: primary
 seo:
   type: stackbit_page_meta
   title: Integral Singapore
   description: Making it easy to do what is right
   extra:
-    - name: 'og:type'
+    - name: og:type
       value: website
       keyName: property
-    - name: 'og:title'
+    - name: og:title
       value: Stackbit DIY Theme
       keyName: property
-    - name: 'og:description'
+    - name: og:description
       value: The preview of the DIY theme
       keyName: property
-    - name: 'og:image'
+    - name: og:image
       value: images/diy-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
+    - name: twitter:card
       value: summary_large_image
-    - name: 'twitter:title'
+    - name: twitter:title
       value: Stackbit DIY Theme
-    - name: 'twitter:description'
+    - name: twitter:description
       value: The preview of the DIY theme
-    - name: 'twitter:image'
+    - name: twitter:image
       value: images/diy-preview.png
       relativeUrl: true
 template: advanced
