@@ -177,7 +177,7 @@ sections:
     background_image_position: center center
     content_align: left
   - form_position: bottom
-    form_layout: stacked
+    form_layout: inline
     padding_top: medium
     align_vert: top
     form_width: fourty
