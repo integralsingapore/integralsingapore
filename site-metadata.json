@@ -131,26 +131,7 @@
       }
     ],
     "secondary_nav_title": "",
-    "secondary_nav_links": [
-      {
-        "type": "action",
-        "label": "News",
-        "url": "/blog/category/news",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "General",
-        "url": "/blog/category/general",
-        "style": "link"
-      },
-      {
-        "type": "action",
-        "label": "Tutorials",
-        "url": "/blog/category/tutorials",
-        "style": "link"
-      }
-    ],
+    "secondary_nav_links": [],
     "has_social": true,
     "has_secondary_nav": true,
     "logo_alt": "Integral Singapore logo",
