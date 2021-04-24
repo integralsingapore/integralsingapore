@@ -26,7 +26,7 @@
             },
             {
                 "type": "action",
-                "label": "About",
+                "label": "Inspiration wall",
                 "url": "/about",
                 "style": "link"
             },
