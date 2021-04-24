@@ -252,7 +252,7 @@ sections:
           them.
         type: feature
         image: ""
-      - media_position: top
+      - media_position: left
         media_width: fifty
         align: left
         type: feature
@@ -291,7 +291,7 @@ sections:
           player" frameborder="0" allow="accelerometer; autoplay;
           clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen></iframe>
-      - media_position: top
+      - media_position: right
         media_width: fifty
         align: left
         type: feature
