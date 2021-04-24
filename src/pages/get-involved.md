@@ -234,16 +234,75 @@ sections:
           allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - type: feature
-        title: Section Title Three
-        subtitle: "Donec nisl ligula, cursus id molestie vel. "
-        content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-        image: images/about-1.jpg
-        image_alt: Happy co-workers
-        media_position: right
+      - media_position: right
+        image_alt: ""
         media_width: fifty
+        video_embed_html: <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/iqGh06Nv8JU" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+        subtitle: 3Pumpkins • 02:01
+        title: A week at Tak Takut Kids Club
+        content: Tak Takut Kids Club (TTKC) is a community space that 3Pumpkins hold in
+          Boon Lay for children to connect with one another, develop their own
+          interests, and induce peer learning. With a largely unstructured
+          programme, we respond to the children and their families, while
+          working with community partners to find the best ways to journey with
+          them.
+        type: feature
+        image: ""
+      - media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+        title: I Thank My Sexual Trauma For Shaking Me Awake | Dani & Elaine - Part 1
+          [Change]
+        subtitle: Warmspace • 09:00
+        content: >-
+          Meeting Elaine for the first time as a stranger, Dani speaks candidly
+          about what inspired the positive change she’s undergoing now. Being
+          sexually harassed twice in the last three years, Dani didn’t let this
+          trauma cripple her. Quite the opposite, she thanked this experience as
+          a catalyst to peel all the layers covering her true self and to start
+          living a life worth living on her own terms. 
+
+
+          We'd like to thank Dani and Elaine for their vulnerability and courage to share their story with the world. We hope you find catharsis, strength, and inspiration from what they've shared. 
+
+
+          Featuring:
+
+          Dani | https://www.instagram.com/dinay_p/
+
+          Elaine | https://www.instagram.com/theelaineneo/
+
+
+          * Warmspace is a social platform that allows any human to experience deep emotional connection through a guided 1:1 conversation. Our mission is to make the world a kinder, more authentic, and humane place, one conversation at a time. If you fancy a raw and genuine conversation like this, try Warmspace yourself at https://warmspace.io/
+
+
+          Website | https://warmspace.io/
+
+          Instagram | http://instagram.com/warmspce
+
+          Facebook | https://www.facebook.com/warmspce
+        video_embed_html: <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/7ktLWjPaMC0" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
+      - media_position: top
+        media_width: fifty
+        align: left
+        type: feature
+        title: Acceset Demo
+        subtitle: oon tian sern • 01:31
+        content: Description of the digital biomarkers and letter writing process
+        video_embed_html: <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/XZzu9Idi4ek" title="YouTube video
+          player" frameborder="0" allow="accelerometer; autoplay;
+          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
     has_border: false
   - align: center
     grid_items:
