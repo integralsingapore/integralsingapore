@@ -201,6 +201,8 @@ sections:
     title_align: center
     background_image_position: center center
     content_align: center
+    content: |
+      Subscribe to our newsletter to make sure you don't miss anything.
   - align: center
     grid_items:
       - image_align: left
