@@ -17,7 +17,7 @@ sections:
     image: /images/undraw_High_five_u364.svg
     actions:
       - type: action
-        label: Try Free
+        label: Subs
         url: /pricing
         style: primary
       - type: action
