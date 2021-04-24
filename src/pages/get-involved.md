@@ -169,7 +169,6 @@ sections:
     grid_cols: two
     background_color: none
     grid_gap_vert: medium
-    title: Cards Section
     grid_gap_horiz: medium
     type: grid_section
   - type: features_section
