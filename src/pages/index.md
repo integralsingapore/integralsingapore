@@ -180,7 +180,7 @@ sections:
     form_layout: stacked
     padding_top: medium
     align_vert: top
-    form_width: fifty
+    form_width: fourty
     enable_card: false
     submit_label: Submit
     background_image_repeat: no-repeat
