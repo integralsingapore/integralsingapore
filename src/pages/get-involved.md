@@ -171,7 +171,7 @@ sections:
         content_align: left
     enable_cards: true
     grid_cols: two
-    background_color: none
+    background_color: secondary
     grid_gap_vert: medium
     grid_gap_horiz: medium
     type: grid_section
