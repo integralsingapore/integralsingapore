@@ -194,7 +194,6 @@ sections:
         label: Email
     background_image_size: cover
     form_id: subscribeForm
-    subtitle: Subscribe to our newsletter to make sure you don't miss anything.
     title: Subscribe
     padding_bottom: medium
     type: form_section
