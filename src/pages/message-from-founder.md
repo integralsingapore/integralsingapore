@@ -4,7 +4,7 @@ sections:
   - actions_width: fourty
     align: left
     padding_top: medium
-    background_image: /images/founder.png
+    background_image: ""
     actions_position: bottom
     background_image_repeat: no-repeat
     has_border: false
@@ -21,13 +21,10 @@ sections:
     background_color: none
     title: Notes from the founder
     content: >-
-      Integral Singapore comes from the heart; hearts that seek! Integral is
-      inclusive and intuitive, universal and empowering. CAP to me means to
-      CARE, be AWARE & PRESENT. Look around you! What problems do you see? How
-      can you or we make it better? You can start by writing to us. Reach out
-      and act! We live in a world that is both beautiful and terrible, but we,
-      as co-inhabitants of this earth, can work together and make it less
-      terrible.
+      ![](/images/founder.png)
+
+
+      Integral Singapore comes from the heart; hearts that seek! Integral is inclusive and intuitive, universal and empowering. CAP to me means to CARE, be AWARE & PRESENT. Look around you! What problems do you see? How can you or we make it better? You can start by writing to us. Reach out and act! We live in a world that is both beautiful and terrible, but we, as co-inhabitants of this earth, can work together and make it less terrible.
 
 
       Some of my mottos:
