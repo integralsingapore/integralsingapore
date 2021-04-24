@@ -231,7 +231,7 @@ seo:
     - name: 'twitter:description'
       value: Making it easy to do what is right
     - name: 'twitter:image'
-      value: images/diy-preview.png
+      value: /images/Screen%20Shot%202021-04-24%20at%209.28.31%20PM.png
       relativeUrl: true
 template: advanced
 ---
