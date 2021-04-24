@@ -33,10 +33,12 @@ sections:
         media_width: fifty
         subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
         title: Mighty Stars
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Mighty Stars help other like-minded purpose-led entrepreneurs and
+          changemakers to become Radical Regenerative Forces. We promote
+          creative and regenerative ways of thinking and conducting business in
+          our inter-connected world which we believe is founded on goodness in
+          overflow.
         type: feature
         image: images/classic/feature-1.png
         actions:
