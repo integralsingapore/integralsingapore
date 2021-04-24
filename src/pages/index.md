@@ -229,7 +229,7 @@ seo:
     - name: 'twitter:title'
       value: Integral Singapore
     - name: 'twitter:description'
-      value: The preview of the DIY theme
+      value: Making it easy to do what is right
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
