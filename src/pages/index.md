@@ -72,10 +72,7 @@ sections:
         media_width: fifty
         subtitle: 'Sed sed commodo turpis, eget rutrum dui.'
         title: The Big Title For the Feature
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "A trusted platform that intersects kindness to self, others (charity) and Mother Earth (sustainability). A community that shares and learns about\_positive, encouraging and valid information.\n"
         type: feature
         image: images/classic/feature-3.png
         actions:
