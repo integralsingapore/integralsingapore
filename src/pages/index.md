@@ -44,7 +44,7 @@ sections:
         actions:
           - type: action
             label: Learn More
-            url: /style-guide
+            url: 'https://joanneb.wixsite.com/mightystars'
             style: primary
             has_icon: true
             icon: arrow-right
