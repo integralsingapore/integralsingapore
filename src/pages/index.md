@@ -31,7 +31,7 @@ sections:
       - media_position: right
         image_alt: Feature 1 placeholder image
         media_width: fifty
-        subtitle: Radical & smarter with more impact
+        subtitle: Radical regenerative forces
         title: Mighty Stars
         content: >
           Mighty Stars help other like-minded purpose-led entrepreneurs and
