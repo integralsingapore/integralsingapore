@@ -325,10 +325,23 @@ sections:
         label: Button
         url: /pricing
         style: primary
+  - actions_width: fourty
+    align: left
+    padding_top: medium
+    actions_position: null
+    background_image_repeat: no-repeat
+    has_border: false
+    background_color: primary
+    background_image_size: cover
+    content: '"Great things are done by a series of small things brought together" -
+      Vincent van Gogh'
+    padding_bottom: medium
+    type: cta_section
+    background_image_position: center center
 seo:
   type: stackbit_page_meta
-  title: Stackbit DIY Theme
-  description: The preview of the DIY theme
+  title: Integral Singapore
+  description: Making it easy to do what is right
   extra:
     - name: og:type
       value: website
